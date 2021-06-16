@@ -1,0 +1,50 @@
+a{
+	text-decoration: none;
+}
+
+.items img{
+	width: 185px;
+	height: 175px;
+}
+
+.busca-principal{
+	font-size: 1.3em;
+}
+/************* LOGIN ************/
+.login{
+	background-image: url("../img/commercial-space-4057620_1920.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+.container-login{
+	background-color: rgba(57, 153, 191, .7);
+	height: 1000px;
+}
+
+/************* MENU INTERNO ************/
+.shadow-primary{
+	-webkit-box-shadow: 0 0.5rem 1rem rgba(57, 153, 191, .15);
+	-moz-box-shadow: 0 0.5rem 1rem rgba(57, 153, 191, .15);
+	box-shadow: 0 0.5rem 1rem rgba(57, 153, 191, .15);
+	border-bottom: 1px solid rgba(57, 153, 191, .2);
+}
+
+/************* MOSAICO DE APPS ************/
+.dropdown-apps{
+	width: 48px;
+	height: 48px;
+	padding: 5px;
+	border: 1px solid rgba(57, 153, 191, .15);
+	border-radius: 6px;
+	margin: 5px;
+	font-size: 25px;
+	text-align: center;
+}
+
+.dropdown-menu{
+	display: none;
+}
